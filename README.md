@@ -4,13 +4,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/JohnCastro">
+  <a href="https://github.com/JohnCastro04">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://www.linkedin.com/in/johncastro/">
+  <a href="https://www.linkedin.com/in/johncastrod/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:john@example.com">
+  <a href="mailto:johncastrod04@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://raw.githubusercontent.com/JohnCastro04/portfolio/master/public/John%20Castro%20-%20Curriculum%20vitae.pdf">

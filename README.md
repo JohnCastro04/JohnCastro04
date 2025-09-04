@@ -32,10 +32,6 @@ Me motiva crear aplicaciones modernas que combinan un **frontend rápido y optim
 - ⚙️ Construcción de sistemas robustos con Django.  
 - 🎯 Enfoque en **calidad del código, optimización y experiencia de usuario**.
 
-<p align="center">
-  <img src="https://github.com/JohnCastro/assets/blob/main/sobre-mi.png" alt="Sobre Mí" width="70%">
-</p>
-
 
 ## 💻 Habilidades Técnicas
 
